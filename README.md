@@ -12,7 +12,7 @@
 
 - 🎓 I’m currently pursuing **Bachelor of Engineering in Information Technology**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mangesh2704](https://github.com/Mangesh2704)
+- 👨‍💻 All of my projects are available at [Mangesh2704](https://github.com/Mangesh2704)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Python and Django**
 
